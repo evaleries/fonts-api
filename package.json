@@ -1,0 +1,34 @@
+{
+  "name": "fonts-api",
+  "version": "1.0.0",
+  "description": "API for font purposes.",
+  "main": "src/main.js",
+  "dependencies": {
+    "axios": "^0.19.2",
+    "cheerio": "^1.0.0-rc.3",
+    "express": "^4.17.1",
+    "puppeteer": "^5.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "main": "node src/main.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evaleries/fonts-api.git"
+  },
+  "keywords": [
+    "fonts",
+    "fonts-api",
+    "font",
+    "download",
+    "font"
+  ],
+  "author": "evaleries",
+  "license": "GPL",
+  "bugs": {
+    "url": "https://github.com/evaleries/fonts-api/issues"
+  },
+  "homepage": "https://github.com/evaleries/fonts-api#readme"
+}
